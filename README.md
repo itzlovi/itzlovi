@@ -43,7 +43,7 @@ width="100%"  height="2">
 #### 🛡️ Security Tools  
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="30"/>
-[![My Skills](https://skillicons.dev/icons?i=kali&theme=dark)](https://github.com/itzlovi)
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-10B981?style=for-the-badge&logoColor=white" height="30"/>
 
@@ -140,16 +140,6 @@ width="100%"  height="2">
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![snake animation](https://raw.githubusercontent.com/itzlovi/itzlovi/output/github-snake-dark.svg)
-
-</div>
-
----
-
 ### 📫 Connect With Me
 
 <div align="center">
@@ -158,7 +148,7 @@ width="100%"  height="2">
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lovepreetindora22@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itzlovi)
 
-📍 **Bathinda, Punjab, India** | 📞 **+91 8437227173**
+📍 **Bathinda, Punjab, India**
 
 </div>
 
