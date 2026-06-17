@@ -1,4 +1,4 @@
-## Hi there 👋 <span style="color:#00FFAB">#Lovepreet</span>
+## Hi there 👋 <span style="color:#00FFAB">Lovepreet</span>
 
 <!--
 **itzlovi/itzlovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -107,15 +107,6 @@ width="100%"  height="2">
 | **Gen AI Exchange Hackathon** | Google Cloud | 2025 | AI for Youth Mental Wellness |
 | **Hacknauts 2025** | GNDEC Ludhiana | 2025 | Participant |
 | **Canara Bank Hackathon** | HackerEarth | 2026 | 🥇 **1st Place** |
-
----
-
-### 🎓 Education
-
-| 📚 Degree | 🏫 Institution | 📊 Score | 📅 Year |
-|---|---|---|---|
-| **B.Tech, CSE** (Cybersecurity, Blockchain & IoT) | Baba Farid College of Engineering & Technology, Bathinda | **CGPA: 7.4 / 10** | 2023 – 2027 |
-| **Higher Secondary (PCM)** | Meritorious School, Ferozepur, Punjab | **93%** | 2023 |
 
 ---
 
