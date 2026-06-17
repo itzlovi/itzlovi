@@ -70,30 +70,92 @@ width="100%"  height="2">
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-<details open>
-<summary><b>Click to expand...</b></summary>
+<table width="100%">
+  <tr>
+    <td>
+      <h3>🌐 CyberNet Scanner — AI-Automated Security Pipeline</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLM_APIs-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+      <p>An end-to-end automated security scanner pipeline. Users submit a URL, which triggers an LLM-powered security scan, culminating in a structured, risk-rated vulnerability report delivered directly to their inbox with zero manual intervention.</p>
+      <ul>
+        <li>🛡️ Auto-detects missing security headers, SSL issues, open ports, and server misconfigurations.</li>
+        <li>🤖 Fully automated workflow orchestration utilizing prompt engineering.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<img align='right' src="https://cnb.cool/66666/resource/-/git/raw/main/img/dengxia.webp" width="350" />
+<br/>
 
-#### 🌐 CyberNet Scanner — AI-Automated Security Pipeline
-`React` `TypeScript` `n8n` `LLM APIs`
-> End-to-end pipeline: user submits URL → LLM-powered scan → structured report auto-delivered to inbox. Zero manual intervention; detects missing security headers, SSL issues, open ports, and misconfigurations with risk-rated output.
+<table width="100%">
+  <tr>
+    <td>
+      <h3>⌨️ Keystroke Dynamics Authentication System</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Security-Zero--Trust-red?style=flat-square" />
+      </p>
+      <p>A biometric login security system utilizing behavioral patterns (typing style) to verify user identity. Achieved high classification accuracy with low-latency inference.</p>
+      <ul>
+        <li>🔑 Implemented using <b>Isolation Forest</b> anomaly detection on self-collected typing dynamics.</li>
+        <li>📈 Achieved <b>90%+ authentication accuracy</b> with sub-3-second inference.</li>
+        <li>⚡ Highly applicable for insider-threat prevention and zero-trust security pipelines.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-#### ⌨️ Keystroke Dynamics Authentication System
-`Python` `Scikit-learn` `Isolation Forest` `Streamlit`
-> Biometric login using Isolation Forest on self-collected typing-pattern data. Achieved **90%+ authentication accuracy** with sub-3-second inference. Applicable to insider-threat detection and zero-trust security pipelines.
+<br/>
 
-#### 📱 SMS Kavach — Fraud Detection System
-`Python` `NLP` `ML` `Flask`
-> NLP-based classifier to detect phishing and fraudulent SMS in real time, targeted at Indian telecom context. Trained Logistic Regression and LinearSVC models with Flask API backend.
+<table width="100%">
+  <tr>
+    <td>
+      <h3>📱 SMS Kavach — Fraud Detection System</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Machine--Learning-Logistic--Regression-blue?style=flat-square" />
+      </p>
+      <p>A real-time SMS fraud and phishing detection system customized for the Indian telecommunication environment to safeguard users from malicious actors.</p>
+      <ul>
+        <li>🔍 NLP-based classifier to detect phishing and fraudulent SMS in real time.</li>
+        <li>⚙️ Trained Logistic Regression and LinearSVC models with a Flask API backend for live verification queries.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-#### 🎓 AI-Powered Personalized Tutor System
-`Python` `Random Forest` `Collaborative Filtering` `Streamlit`
-> Adaptive e-learning platform with **~85% performance prediction accuracy**. Dynamically adjusts lesson difficulty using ML-driven content recommendations. Full ML lifecycle shipped in 6 weeks.
+<br/>
 
-</details>
+<table width="100%">
+  <tr>
+    <td>
+      <h3>🎓 AI-Powered Personalized Tutor System</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Random--Forest-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Collaborative--Filtering-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </p>
+      <p>An adaptive e-learning web application that dynamically optimizes student learning paths based on performance prediction and recommendation mechanics.</p>
+      <ul>
+        <li>📈 Achieved <b>~85% prediction accuracy</b> for student performance outcomes.</li>
+        <li>🧠 Recommends customized lessons and adjusts difficulty levels dynamically.</li>
+        <li>🚀 Managed full ML lifecycle from preprocessing to model deployment in 6 weeks.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
