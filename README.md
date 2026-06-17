@@ -28,33 +28,16 @@ width="100%"  height="2">
 ### 🛠️ Skills
 
 #### 🔐 Languages & ML  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/NLP%20(spaCy)-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Isolation%20Forest-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/LLM%20Integration-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/NLP%20(spaCy)-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Isolation%20Forest-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/LLM%20Integration-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" height="30"/>
 
 #### 🎨 Web & Deployment  
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=json&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=json&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="30"/>
 
 #### 🛡️ Security Tools  
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-10B981?style=for-the-badge&logo=openai&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Prompt%20Engineering-10B981?style=for-the-badge&logo=openai&logoColor=white" height="30"/>
 
 #### 🗄️ Development Tools  
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"/>
 
 ---
 
