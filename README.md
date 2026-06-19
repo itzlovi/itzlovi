@@ -152,11 +152,11 @@ width="100%"  height="2">
 
 | 🏅 Event | 🏢 Organizer | 📅 Year | 🎯 Result |
 |---|---|---|---|
-| **FinTech Cyber Security Hackathon** | IIT Ropar | 2026 | Participant |
+| **FinTech Cyber Security Hackathon** | IIT Ropar | 2026 | Built SMSKavach |
 | **Viksit Bharat Internal Hackathon** | BFGI Campus | 2026 | Built "RunEmpire" — gamified running app |
 | **Smart India Hackathon (SIH)** | Government of India | 2024 & 2025 | ✅ Cleared Internal Rounds |
 | **Gen AI Exchange Hackathon** | Google Cloud | 2025 | AI for Youth Mental Wellness |
-| **Hacknauts 2025** | GNDEC Ludhiana | 2025 | Participant |
+| **Hacknauts 2025** | GNDEC Ludhiana | 2025 | Built CipherScan |
 | **Canara Bank Hackathon** | HackerEarth | 2026 | 🥇 **1st Place** |
 
 ---
