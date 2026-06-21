@@ -24,7 +24,7 @@ jobs:
       - name: Make Multiple Contributions
         run: |
           # Create or touch a file to modify
-          touch streak.txt
+          touch .github/streak.txt
           
           # Generate a random number of commits between 4 and 6
           NUM_COMMITS=$((4 + RANDOM % 3))
@@ -34,8 +34,8 @@ jobs:
           do
             # Wait 1 second to ensure different timestamps
             sleep 1
-            echo "Heartbeat at $(date) - commit $i" >> streak.txt
-            git add streak.txt
+            echo "Heartbeat at $(date) - commit $i" >> .github/streak.txt
+            git add .github/streak.txt
             git commit -m "chore: automated daily contribution log [commit $i]"
           done
 
