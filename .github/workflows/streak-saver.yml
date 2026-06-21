@@ -1,0 +1,44 @@
+name: Streak Saver
+
+on:
+  schedule:
+    # Runs at 11:30 AM UTC (5:00 PM IST) every day
+    - cron: '30 11 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Crucial for pushing commits back to the repo
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "actions@github.com"
+
+      - name: Make Multiple Contributions
+        run: |
+          # Create or touch a file to modify
+          touch streak.txt
+          
+          # Generate a random number of commits between 4 and 6
+          NUM_COMMITS=$((4 + RANDOM % 3))
+          echo "Generating $NUM_COMMITS commits today..."
+          
+          for i in $(seq 1 $NUM_COMMITS)
+          do
+            # Wait 1 second to ensure different timestamps
+            sleep 1
+            echo "Heartbeat at $(date) - commit $i" >> streak.txt
+            git add streak.txt
+            git commit -m "chore: automated daily contribution log [commit $i]"
+          done
+
+      - name: Push Commits
+        run: |
+          git push origin main
