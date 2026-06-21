@@ -1,0 +1,26 @@
+# General Node.js & Python ignore patterns
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+dist/
+build/
+out/
+
+# Sensitive environment variables & secrets
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+*.pem
+*.key
+*service-account*.json
+credentials.json
+
+# IDEs and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
